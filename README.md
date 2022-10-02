@@ -13,7 +13,7 @@ Software: MATLAB 2021b
 
 	- Counts for each breeds in the dataset:
 
-	![](https://i.ibb.co/nBRXS33/Res-Net-Count-Breeds.png)
+	![](https://www.linkpicture.com/q/ResNet_CountBreeds.png)
 
 
 2. Use this script to modify the dataset so it can be used by the networks:
