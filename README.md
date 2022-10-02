@@ -11,7 +11,7 @@ Software: MATLAB 2021b
 1. First download the dataset from:
 	- https://www.kaggle.com/c/dog-breed-identification/data
 
-![Counts for each breeds in the dataset]([https://i.ibb.co/MDHcjJy/00c14d34a725db12068402e4ce714d4c.jpg](https://i.ibb.co/nBRXS33/Res-Net-Count-Breeds.png))
+![Counts for each breeds in the dataset](https://i.ibb.co/nBRXS33/Res-Net-Count-Breeds.png))
 
 
 2. Use this script to modify the dataset so it can be used by the networks:
