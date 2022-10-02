@@ -1,6 +1,6 @@
 # Dog-Breed-Identification_CSE598_Project
 
-How to replicate the results and execute the code.
+ !(https://i.ibb.co/MDHcjJy/00c14d34a725db12068402e4ce714d4c.jpg)
 
 Environment used :
 ```
