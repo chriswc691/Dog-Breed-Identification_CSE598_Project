@@ -1,6 +1,6 @@
 # Dog-Breed-Identification_CSE598_Project
 
- !(https://i.ibb.co/MDHcjJy/00c14d34a725db12068402e4ce714d4c.jpg)
+ ![](https://i.ibb.co/MDHcjJy/00c14d34a725db12068402e4ce714d4c.jpg)
 
 Environment used :
 ```
